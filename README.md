@@ -1,2 +1,2 @@
 # hello-world
-Mwadime is a software developer
+McSadime is a software developer
